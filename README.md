@@ -1,4 +1,4 @@
-# Stron (
+# Stron (Matheus Figueiredo)
 
 [![Twitter](https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2Fblxcklxcas)](https://twitter.com/str0nn)
 
