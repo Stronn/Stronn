@@ -17,4 +17,3 @@ Below is some information about what I am currently studying.
   <summary> Click Here </summary>
 
 <img align="center" alt="python" width="36px" src="https://img.icons8.com/color/48/000000/python.png" />
-<img align="center" alt="html" width="36px" src="https://img.icons8.com/color/48/000000/html-5.png"/>
