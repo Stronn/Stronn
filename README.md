@@ -5,11 +5,11 @@
 
 
 PT/BR・Olá, prazer me chamo Matheus mas pode me chamar de "Stron".
-Tenho 16 anos, e atualmente moro no brasil!
+Tenho 17 anos, e atualmente moro no brasil!
 Abaixo estão algumas informações sobre o que eu estudo atualmente.
 
 EN/US・Hello, my name is Matheus but you can call me "Stron".
-I am 16 years old and currently live in Brazil!
+I am 17 years old and currently live in Brazil!
 Below is some information about what I am currently studying.
 # 
 
