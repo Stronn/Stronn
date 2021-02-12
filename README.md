@@ -4,7 +4,7 @@
 
 
 
-https://cdn.discordapp.com/emojis/808749399299063820.gif?v=1 **|** Olá, prazer me chamo Matheus mas pode me chamar de "Stron".
+[![Brasil](https://cdn.discordapp.com/emojis/808749399299063820.gif?v=1) **|** Olá, prazer me chamo Matheus mas pode me chamar de "Stron".
 Tenho 16 anos, e atualmente moro no brasil!
 Abaixo estão algumas informações sobre o que eu estudo atualmente!
 
