@@ -8,6 +8,6 @@ Tenho 17 anos, e atualmente moro no brasil! <br>
 No momento estou estudando sobre Kernel Mode e Database!
 
 
-> EN/US・Hello, my name is Matheus but you can call me "Stron".
-I am 17 years old and currently live in Brazil!
+> EN/US・Hello, my name is Matheus but you can call me "Stron". <br>
+I am 17 years old and currently live in Brazil! <br>
 I am currently studying Kernel Mode and Database!
