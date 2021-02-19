@@ -5,7 +5,7 @@
 
 > PT/BR・Olá, prazer me chamo Matheus mas pode me chamar de "Stron". <br>
 Tenho 17 anos, e atualmente moro no brasil! <br>
-No momento estou estudando sobre Kernel Mode e Database!
+No momento estou estudando sobre `Kernel Mode` e `Database`!
 
 
 > EN/US・Hello, my name is Matheus but you can call me "Stron". <br>
